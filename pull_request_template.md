@@ -1,8 +1,8 @@
 # Descripción
 que ha cambiado?
-[] frontend
-[] backend
-[] configuracion del server
+- [] frontend
+- [] backend
+- [] configuracion del server
 
 
 # como puedo probar los cambios?
