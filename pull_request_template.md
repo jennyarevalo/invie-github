@@ -2,7 +2,7 @@
 que ha cambiado_
 - [] frontend
 - [] backend
-- [] configuracion del server
+-[] configuracion del server
 
 
 # como puedo probar los cambios?
